@@ -1,0 +1,76 @@
+nav{
+    background-color: rgb(255, 255, 198);
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin: 20px;
+    list-style: none; 
+    font-family: 'Segoe UI';
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+.top-heading{
+    text-align: center;
+    color: #ffff;
+}
+img{
+    height: 152px;
+    margin: 0;
+}
+.text {
+    position: absolute;
+    color: #ffff;
+    left: 16px;
+    padding: 30px;
+  }
+  .images{
+    margin: 10px;
+  }
+  footer{
+    background-color: rgb(255, 255, 198);
+    height: 50px;
+    text-align: center;
+    padding: 5px;
+  }
+  .form{
+    position: absolute;
+    justify-content: space-between;
+    margin-inline-start: 360px;
+    padding: 09px;
+  }
+  input{
+      justify-content: center;
+      padding: 10px;
+      margin: 1px;
+      align-items: center;
+      width: 200px;   
+  }
+  h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .btn{
+    margin-inline-start: 80px;
+    padding: 9px;
+    background-color: rgb(4, 170, 109);
+    border: none;
+    border-radius: 5px;
+    color: rgb(240, 241, 242);
+  }
+.vods{
+    margin-inline-start: 30px;
+}
+.two{
+    width: 975px;
+}
+p{
+    color: #ffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
